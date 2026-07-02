@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fardosa Hussein 👋</h1>
-<h3 align="center">Software Developer | AI/ML | DevOps & Cloud</h3>
+<h3 align="center">Software Developer | AI/ML/DL | DevOps & Cloud Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=21-firdaws&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
